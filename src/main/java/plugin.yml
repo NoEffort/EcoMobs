@@ -1,0 +1,13 @@
+name: EcoMobs
+main: me.noeffort.ecomobs.Main
+version: 0.1.1
+
+softdepend: [Vault]
+description: Money for mobs.
+author: NoEffort 
+
+commands:
+  reloadmobs:
+    aliases: rm
+    description: Reload command for the plugin.
+    usage: "Usage: /<command>"
